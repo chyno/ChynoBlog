@@ -1,7 +1,7 @@
 #################
 ## Eclipse
 #################
-
+credentials.config
 *.pydevproject
 .project
 .metadata
